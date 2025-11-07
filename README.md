@@ -159,8 +159,8 @@ Stealth Pitch Builder is a private project with proprietary licensing. Public do
 
 #### ✉️ Direct Email
 
-<a href="mailto:contact@example.com">
-  <img src="https://img.shields.io/badge/Email-contact%40example.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+<a href="mailto:etuperin99@gmail.com">
+  <img src="https://img.shields.io/badge/Email-etuperin99%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
 </a>
 
 **Best for:** Confidential inquiries, licensing questions
